@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MAXMEISTER747
+- 👀 I’m interested in arduino, robotics and gaming
+- 🌱 I’m currently learning arduino C++ and python
+- 💞️ I’m looking to collaborate on my rick-rollduino project
+- 📫 You can email me at max@pug.gy and contact me on discord at MAXMEISTER747#6883
